@@ -7,11 +7,12 @@ body {
   a {
     text-decoration: none;
   }
-  
+ 
   .container {
     width: 1170px;
     padding: 0 15px;
     margin: 0 auto;
+    text-align: center;
   }
   
   .top-wrapper {
@@ -30,6 +31,7 @@ body {
   .top-wrapper p {
     opacity: 0.7;
     margin-bottom: 3px;
+    text-align: center;
   }
   
   /* Ini CSS for btn */
@@ -72,7 +74,7 @@ body {
     margin: 10px 10px;
   }
 
-  .favorit-wrapper {
+  .favorit-wrapper {s
     padding: 50px 0 450px 0;    
     background-color: wheat;
     text-align: center;
