@@ -230,7 +230,7 @@ body {
 
 footer{
   width: 100%;
-  position: relative;
+  position: fixed;
   bottom: 0;
   left: 0;
   background: rgba(252, 255, 251, 0.137);
